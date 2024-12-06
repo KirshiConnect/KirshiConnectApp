@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="textColor">#3C478C</color>
+    <color name="bgColor">#0A5F0F</color>
+
+    <color name="pink">#de54ab</color>
+    <color name="skyBlue">#0bbbc0</color>
+    <color name="miami">#2cbca0</color>
+    <color name="red">#e05167</color>
+
+
+
+
+</resources>
